@@ -13,4 +13,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "compose-demo2"
+rootProject.name = "jcmd-gui"
