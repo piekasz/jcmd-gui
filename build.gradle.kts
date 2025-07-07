@@ -25,8 +25,7 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "shared.MainKt"
-
+        mainClass = "profiler.MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
             packageName = "compose-demo2"
